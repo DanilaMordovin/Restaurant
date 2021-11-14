@@ -678,6 +678,7 @@ color: #FFFFFF;
    width: 119px;
    height: 27px;
    margin-top: -200px;
+   display: none;
    margin-left: -20px;
    font-family: Open Sans;
    font-style: normal;
@@ -923,7 +924,7 @@ grid-gap: 30px;
 
  
  
- @media (max-width: 1800px){
+ @media (max-width: 3000px){
    .nav__btn{
       display: none;
       margin-top: 2px;
